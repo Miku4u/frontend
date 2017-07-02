@@ -1,0 +1,36 @@
+body {
+    font-family: 'Fira Sans', sans-serif;
+    background-image: url(../img/bg.png);
+    background-repeat: repeat;
+}
+
+.header {
+    background-color: white;
+}
+
+.header-inner {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    align-items: center;
+}
+
+.nav-link {
+  font-size: 16px;
+  line-height: 1;
+  color: #3e4247;
+  padding-left: 32px;
+  text-decoration: none;
+}
+
+.compass {
+    background-color: #161616;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.comp-dev-logo {
+    height: 131px;
+}
