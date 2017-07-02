@@ -43,9 +43,76 @@ body {
 .intro_title {
     font-family: 'Fira Sans';
     font-weight: bold;
+    color: #3e4247;
+    margin: 0px;
 }
 
 .intro_text {
     width: 804px;
     padding-top: 8px;
+    margin: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #3e4247;
+}
+
+.contact_button {
+    width: 193px;
+    height: 40px;
+    border-radius: 2px;
+    background-color: black;
+    border-color: black;
+    color: white;
+    font-family: 'Fira Sans';
+}
+
+.subbutton {
+    padding-top: 16px;
+    padding-bottom: 64px;
+}
+
+.pic1 {
+    height: 350px;
+}
+
+.post {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+.supatext{
+    display: flex;
+    flex-direction: column;
+    padding-left: 32px;
+}
+
+.text1{
+    color: #646971;
+    margin: 0px;
+    padding-top: 24px;
+    font-family: 'Fira Mono', monospace;
+}
+
+.text2{
+    font-weight: bold;
+    color: black;
+    margin: 0px;
+    padding-top: 24px;
+    font-size: 40px;
+}
+
+.text3{
+    margin: 0px;
+    padding-top: 8px;
+    line-height: 24px;
+    color: #3e4247;
+}
+
+.post_outer{
+    padding-bottom: 48px;
+}
+
+.post_link {
+    text-decoration: none;
 }
