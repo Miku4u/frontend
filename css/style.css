@@ -6,13 +6,13 @@ body {
 
 .header {
     background-color: white;
+    height: 64px;
 }
 
 .header-inner {
     display: flex;
     justify-content: space-between;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    padding-top: 20px;
     align-items: center;
 }
 
@@ -107,6 +107,7 @@ body {
     padding-top: 8px;
     line-height: 24px;
     color: #3e4247;
+    width: 590.9px;
 }
 
 .post_outer{
