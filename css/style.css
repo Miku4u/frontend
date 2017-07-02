@@ -34,3 +34,18 @@ body {
 .comp-dev-logo {
     height: 131px;
 }
+
+.intro {
+    padding-top: 64px;
+    text-align: center;
+}
+
+.intro_title {
+    font-family: 'Fira Sans';
+    font-weight: bold;
+}
+
+.intro_text {
+    width: 804px;
+    padding-top: 8px;
+}
