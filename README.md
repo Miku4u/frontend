@@ -1,2 +1,2 @@
-# yard-frontend Readme 
+# frontend readme 
 My 1st project
