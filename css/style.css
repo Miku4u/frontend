@@ -117,3 +117,71 @@ body {
 .post_link {
     text-decoration: none;
 }
+
+.footer {
+    background-color: #111111;
+    margin-top: 96px;
+    height: 360px;
+}
+
+.yrd {
+    font-family: 'Fira Sans';
+    font-weight: bold;
+    color: #646971;
+    margin: 0px;
+    padding-bottom: 16px;
+    font-size: 14px;
+}
+
+.ogrn_inn {
+    font-family: 'Fira Sans';
+    font-weight: lighter;
+    color: #a9afb6;
+    margin: 0px;
+    padding-bottom: 16px;
+    font-size: 14px;
+}
+
+.phone {
+    font-family: 'Fira Sans';
+    font-weight: lighter;
+    color: #a9afb6;
+    margin: 0px;
+    padding-top: 16px;
+    font-size: 14px;
+}
+
+.footer_line {
+    border: none;
+    background-color: #3e4247;
+    color: #3e4247;
+    height: 2px; 
+    width: 186px;
+    margin-bottom: 16px;
+}
+
+.footer_inner {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 32px;
+}
+
+.footer_link {
+    font-size: 14px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.linktext {
+    margin: 0px;
+    margin-bottom: 16px;
+    
+}
+
+.footer_center {
+    margin-left: 150px;
+}
+
+.footer_right {
+    margin-right: 300px;
+}
